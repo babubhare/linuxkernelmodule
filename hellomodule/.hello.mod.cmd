@@ -1,0 +1,1 @@
+savedcmd_/home/kali/wf/linuxkernelmodule/hellomodule/hello.mod := printf '%s\n'   hello.o | awk '!x[$$0]++ { print("/home/kali/wf/linuxkernelmodule/hellomodule/"$$0) }' > /home/kali/wf/linuxkernelmodule/hellomodule/hello.mod

@@ -1,0 +1,1 @@
+savedcmd_/home/kali/wf/linuxkernelmodule/hellomodule/Module.symvers :=  scripts/mod/modpost -M -m       -o /home/kali/wf/linuxkernelmodule/hellomodule/Module.symvers -T /home/kali/wf/linuxkernelmodule/hellomodule/modules.order -i Module.symvers -e 
