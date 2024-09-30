@@ -1,0 +1,1 @@
+savedcmd_/home/kali/wf/linuxkernelmodule/chardevice/chardevice.mod := printf '%s\n'   chardevice.o | awk '!x[$$0]++ { print("/home/kali/wf/linuxkernelmodule/chardevice/"$$0) }' > /home/kali/wf/linuxkernelmodule/chardevice/chardevice.mod

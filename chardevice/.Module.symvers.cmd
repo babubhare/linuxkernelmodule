@@ -1,0 +1,1 @@
+savedcmd_/home/kali/wf/linuxkernelmodule/chardevice/Module.symvers :=  scripts/mod/modpost -M -m       -o /home/kali/wf/linuxkernelmodule/chardevice/Module.symvers -T /home/kali/wf/linuxkernelmodule/chardevice/modules.order -i Module.symvers -e 
